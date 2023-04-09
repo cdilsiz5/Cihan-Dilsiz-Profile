@@ -6,7 +6,7 @@ Looking for an entry-level position as a Software Engineer in a dynamic firm tha
 Skills: Java Core, Spring Boot, Hibernate, Swing, HTML, CSS, Bootstrap, JQuery
 
 🌱 I’m currently learning Spring MVC, Spring Boot
-📫 How to reach me: mehedihasan111941@gmail.com
+📫 How to reach me: cihandilsizdev@gmail.com
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdilsiz5&label=Profile%20views&color=0e75b6&style=flat" alt="cdilsiz5" /> </p>
