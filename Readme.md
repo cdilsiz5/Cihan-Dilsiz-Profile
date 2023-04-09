@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cihan Dilsiz</h1>
-<h3 align="center">A passionate Java Backend developer</h3>
+<h3 align="center">A passionate Java Programmer
+Looking for an entry-level position as a Software Engineer in a dynamic firm that values my analytical and technical skills and provides scope for updating my knowledge.
+</h3>
+
+Skills: Java Core, Spring Boot, Hibernate, Swing, HTML, CSS, Bootstrap, JQuery
+
+🌱 I’m currently learning Spring MVC, Spring Boot
+📫 How to reach me: mehedihasan111941@gmail.com
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdilsiz5&label=Profile%20views&color=0e75b6&style=flat" alt="cdilsiz5" /> </p>
 
