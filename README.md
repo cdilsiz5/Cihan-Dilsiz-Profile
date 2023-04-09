@@ -15,11 +15,11 @@ Skills: Java Core, Spring Boot, Hibernate, Swing, HTML, CSS, Bootstrap, JQuery
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/cihan-dilsiz-9bb412191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cihan-dilsiz-9bb412191/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21604990/cihan-dilsiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21604990/cihan-dilsiz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cihan-dilsiz-9bb412191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cihan-dilsiz-9bb412191/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21604990/cihan-dilsiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21604990/cihan-dilsiz" height="30" width="40" /></a>
 <a href="https://medium.com/@cdilsiz5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cdilsiz5" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/cdilsiz5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/cdilsiz5" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/cihandilsizdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/cihandilsizdev/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/cdilsiz5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/cdilsiz5" height="30" width="40" /></a>
+<a href="https://leetcode.com/cihandilsizdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/cihandilsizdev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
