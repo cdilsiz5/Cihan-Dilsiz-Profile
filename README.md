@@ -3,7 +3,8 @@
 Looking for an entry-level position as a Software Engineer in a dynamic firm that values my analytical and technical skills and provides scope for updating my knowledge.
 </h3>
 
-Skills: Java Core, Spring Boot, Hibernate, Swing, HTML, CSS, Bootstrap, JQuery
+Skills: 
+Java Core, Spring Boot, Hibernate, Swing, HTML, CSS, Bootstrap, JQuery
 
 🌱 I’m currently learning Spring MVC, Spring Boot, Spring Microservices and React Js
 📫 How to reach me: cihandilsizdev@gmail.com
