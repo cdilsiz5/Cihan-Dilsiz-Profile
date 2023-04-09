@@ -27,7 +27,7 @@ Skills: Java Core, Spring Boot, Hibernate, Swing, HTML, CSS, Bootstrap, JQuery
 
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cdilsiz5&show_icons=true&locale=en&layout=compact" alt="cdilsiz5" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cdilsiz5&show_icons=true&locale=en" alt="cdilsiz5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cdilsiz5&" alt="cdilsiz5" /></p>
