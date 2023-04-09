@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cihan Dilsiz</h1>
-<h3 align="center">A passionate Java Programmer
+<h3 align="center">A  Java Programmer
 Looking for an entry-level position as a Software Engineer in a dynamic firm that values my analytical and technical skills and provides scope for updating my knowledge.
 </h3>
 
