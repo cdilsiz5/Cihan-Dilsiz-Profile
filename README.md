@@ -3,7 +3,7 @@
 </h3>
 
 Skills: 
-Java Core, Spring Boot, Hibernate, Swing, HTML, CSS, Bootstrap, JQuery learning Spring MVC, Spring Microservices and React Js
+Java Core, Spring Boot, Hibernate, Swing, HTML, CSS, Bootstrap, JQuery Spring MVC, Spring Microservices . Spring Cloud . Docker . Jenkins and React Js
 
 📫 How to reach me: cihandilsizdev@gmail.com
 
